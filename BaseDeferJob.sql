@@ -1,5 +1,5 @@
 declare
-  key_id_ varchar2(1);
+  key_id_ varchar2(10);
   attr_   varchar2(32000);
 begin
   -- Clear the attributes to be passed
