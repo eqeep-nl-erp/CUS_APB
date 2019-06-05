@@ -5,7 +5,7 @@ declare
   rd_doc_sheet_ varchar2(20) := '1';
   rd_doc_rev_   varchar2(20) := 'A1';
   company_      varchar2(10) := '1301';
-  invoice_no_   varchar2(30) := '1301120024';
+  invoice_no_   varchar2(30) := '1301120025';
   invoice_type_ varchar2(10) := '172';
   file_no_      number := 1;
 begin
